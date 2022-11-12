@@ -1,3 +1,5 @@
+![logo](https://github.com/GulrezAlam07/GulrezAlam07/blob/main/github-header-image.png)
+
 <h1 align="center">Hi 👋, I'm Gulrez Alam</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding" align="right" width="400" >

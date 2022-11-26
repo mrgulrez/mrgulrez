@@ -1,12 +1,12 @@
 ![logo](https://github.com/GulrezAlam07/GulrezAlam07/blob/main/github-header-image.png)
 
-<h1 align="center">Hi 👋, I'm Gulrez Alam</h1>
+<!-- <h1 align="center">Hi 👋, I'm Gulrez Alam</h1> -->
 <h3 align="center">A passionate frontend developer from India</h3>
 <img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding" align="right" width="400">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gulrezalam07&label=Profile%20views&color=0e75b6&style=flat" alt="gulrezalam07" /> </p>
 
-- 👨‍💻 All of my projects are available at [http://mrgulrez.tech/](http://mrgulrez.tech/)
+- 👨‍💻 All of my projects are available at [https://gulrezalam.netlify.app/](https://gulrezalam.netlify.app/)
 
 - 📫 How to reach me **egulrezalam@gmail.com**
 

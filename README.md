@@ -2,7 +2,7 @@
 
 <!-- <h1 align="center">Hi 👋, I'm Gulrez Alam</h1> -->
 <h3 align="center">A passionate frontend developer from India</h3>
-<img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding" align="right" width="400">
+<img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding" align="right" width="300">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gulrezalam07&label=Profile%20views&color=0e75b6&style=flat" alt="gulrezalam07" /> </p>
 

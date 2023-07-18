@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrgulrez&label=Profile%20views&color=0e75b6&style=flat" alt="mrgulrez" /> </p>
 
-- 👨‍💻 All of my projects are available at [mrgulrez.com](https://gulrez.com/)
+- 👨‍💻 All of my projects are available at [gulrez.com](https://gulrez.com/)
 
 - 📫 How to reach me **egulrezalam@gmail.com**
 

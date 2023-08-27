@@ -16,7 +16,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/mrgulrez/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mrgulrez/" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/gulrezalam/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/gulrezalam/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/gulrez__alam/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/gulrez__alam/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/gulrez__alam/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/gulrez__alam/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

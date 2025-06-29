@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrgulrez&label=Profile%20views&color=0e75b6&style=flat" alt="mrgulrez" /> </p>
 
-- 👨‍💻 All of my projects are available at [gulrez.com](https://gulrez.com/)
+- 👨‍💻 All of my projects are available at [gulrez.com](https://gulrez-portfolio.vercel.app/)
 
 - 📫 How to reach me **egulrezalam@gmail.com**
 
@@ -14,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mrgulrez/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mrgulrez/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mrgulrez/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mrgulrez/" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/gulrezalam/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/gulrezalam/" height="30" width="40" /></a>
 <a href="https://www.instagram.com/gulrez__alam/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/gulrez__alam/" height="30" width="40" /></a>
 

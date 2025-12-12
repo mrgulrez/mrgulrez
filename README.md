@@ -108,78 +108,17 @@ const gulrez = {
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=65&section=header&animation=twinkling"/>
 </div>
 
-## Dev Zone: Interactive Stats & Games
+## GitHub Statistics
 
 <div align="center">
-
-### 🎮 GitHub Minesweeper
-
-<a href="https://github.com/mrgulrez">
-  <img src="https://img.shields.io/badge/🎯_Play-Minesweeper-FF6B6B?style=for-the-badge" alt="Play Minesweeper"/>
-</a>
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=mrgulrez&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=5CE1E6&icon_color=5CE1E6&text_color=FFFFFF&include_all_commits=true&count_private=true" alt="GitHub Stats" width="49%"/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrgulrez&theme=tokyonight&hide_border=true&background=0D1117&ring=5CE1E6&fire=5CE1E6&currStreakLabel=5CE1E6" alt="GitHub Streak" width="49%"/>
 
 </div>
 
 <br/>
-
-<div align="center">
-
-<!-- Minesweeper Grid -->
-|     | A | B | C | D | E | F | G | H |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| **1** | [💣](https://github.com/mrgulrez?tab=repositories) | [🔢](https://github.com/mrgulrez?tab=repositories) | [🔢](https://github.com/mrgulrez?tab=repositories) | [💣](https://github.com/mrgulrez?tab=repositories) | [🔢](https://github.com/mrgulrez?tab=repositories) | [🔢](https://github.com/mrgulrez?tab=repositories) | [🔢](https://github.com/mrgulrez?tab=repositories) | [💣](https://github.com/mrgulrez?tab=repositories) |
-| **2** | [🔢](https://github.com/mrgulrez?tab=repositories) | [✨](https://github.com/mrgulrez?tab=repositories) | [✨](https://github.com/mrgulrez?tab=repositories) | [🔢](https://github.com/mrgulrez?tab=repositories) | [🔢](https://github.com/mrgulrez?tab=repositories) | [✨](https://github.com/mrgulrez?tab=repositories) | [🔢](https://github.com/mrgulrez?tab=repositories) | [🔢](https://github.com/mrgulrez?tab=repositories) |
-| **3** | [💣](https://github.com/mrgulrez?tab=repositories) | [🔢](https://github.com/mrgulrez?tab=repositories) | [✨](https://github.com/mrgulrez?tab=repositories) | [✨](https://github.com/mrgulrez?tab=repositories) | [✨](https://github.com/mrgulrez?tab=repositories) | [✨](https://github.com/mrgulrez?tab=repositories) | [✨](https://github.com/mrgulrez?tab=repositories) | [🔢](https://github.com/mrgulrez?tab=repositories) |
-| **4** | [🔢](https://github.com/mrgulrez?tab=repositories) | [🔢](https://github.com/mrgulrez?tab=repositories) | [✨](https://github.com/mrgulrez?tab=repositories) | [💣](https://github.com/mrgulrez?tab=repositories) | [🔢](https://github.com/mrgulrez?tab=repositories) | [🔢](https://github.com/mrgulrez?tab=repositories) | [🔢](https://github.com/mrgulrez?tab=repositories) | [💣](https://github.com/mrgulrez?tab=repositories) |
-
-</div>
-
-<br/>
-
-<div align="center">
-
-### 🎲 Developer Stats Game
-
-<img src="https://github-readme-stats.vercel.app/api?username=mrgulrez&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=5CE1E6&icon_color=5CE1E6&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats" width="48%"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mrgulrez&theme=radical&hide_border=true&background=0D1117&ring=5CE1E6&fire=5CE1E6&currStreakLabel=5CE1E6" alt="GitHub Streak" width="48%"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-### 🏆 Achievement Unlocked
-
-<img src="https://github-profile-trophy.vercel.app/?username=mrgulrez&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trophies" width="100%"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-### 📊 Code Battle Stats
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrgulrez&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=5CE1E6&langs_count=10" alt="Top Languages" width="60%"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<!-- Gaming Animation -->
-<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="400" alt="Gaming Dev"/>
-
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=65&section=header&animation=twinkling"/>
-</div>
-
-## Contribution Activity
 
 <div align="center">
   
@@ -188,6 +127,18 @@ const gulrez = {
 </div>
 
 <br/>
+
+<div align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrgulrez&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=5CE1E6&langs_count=10" alt="Top Languages" width="40%"/>
+
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=65&section=header&animation=twinkling"/>
+</div>
+
+## Detailed Insights
 
 <div align="center">
   

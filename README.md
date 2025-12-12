@@ -112,9 +112,13 @@ const gulrez = {
 
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=mrgulrez&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=5CE1E6&icon_color=5CE1E6&text_color=FFFFFF&include_all_commits=true&count_private=true" alt="GitHub Stats" width="49%"/>
+  <a href="https://github.com/mrgulrez">
+    <img src="https://github-readme-stats.vercel.app/api?username=mrgulrez&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="49%"/>
+  </a>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrgulrez&theme=tokyonight&hide_border=true&background=0D1117&ring=5CE1E6&fire=5CE1E6&currStreakLabel=5CE1E6" alt="GitHub Streak" width="49%"/>
+  <a href="https://github.com/mrgulrez">
+    <img src="https://streak-stats.demolab.com/?user=mrgulrez&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="49%"/>
+  </a>
 
 </div>
 
@@ -130,7 +134,7 @@ const gulrez = {
 
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrgulrez&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=5CE1E6&langs_count=10" alt="Top Languages" width="40%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrgulrez&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="45%"/>
 
 </div>
 

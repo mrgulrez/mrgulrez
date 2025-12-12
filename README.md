@@ -108,42 +108,6 @@ const gulrez = {
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=65&section=header&animation=twinkling"/>
 </div>
 
-## GitHub Analytics
-
-<div align="center">
-  
-  <a href="https://github.com/mrgulrez">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mrgulrez&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=5CE1E6&icon_color=5CE1E6&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  </a>
-  
-  <a href="https://github.com/mrgulrez">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrgulrez&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=5CE1E6&langs_count=10" alt="Top Languages"/>
-  </a>
-
-</div>
-
-<br/>
-
-<div align="center">
-  
-  <a href="https://github.com/mrgulrez">
-    <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=mrgulrez&theme=tokyonight&hide_border=true&background=0D1117&ring=5CE1E6&fire=5CE1E6&currStreakLabel=5CE1E6&stroke=5CE1E6" alt="GitHub Streak"/>
-  </a>
-
-</div>
-
-<br/>
-
-<div align="center">
-  
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=mrgulrez&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
-
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=65&section=header&animation=twinkling"/>
-</div>
-
 ## Contribution Activity
 
 <div align="center">

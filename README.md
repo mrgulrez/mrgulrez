@@ -112,9 +112,13 @@ const gulrez = {
 
 <div align="center">
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mrgulrez&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=5CE1E6&icon_color=5CE1E6&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <a href="https://github.com/mrgulrez">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mrgulrez&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=5CE1E6&icon_color=5CE1E6&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  </a>
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrgulrez&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=5CE1E6&langs_count=8" alt="Top Languages"/>
+  <a href="https://github.com/mrgulrez">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrgulrez&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=5CE1E6&langs_count=10" alt="Top Languages"/>
+  </a>
 
 </div>
 
@@ -122,7 +126,9 @@ const gulrez = {
 
 <div align="center">
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrgulrez&theme=tokyonight&hide_border=true&background=0D1117&ring=5CE1E6&fire=5CE1E6&currStreakLabel=5CE1E6&stroke=5CE1E6" alt="GitHub Streak"/>
+  <a href="https://github.com/mrgulrez">
+    <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=mrgulrez&theme=tokyonight&hide_border=true&background=0D1117&ring=5CE1E6&fire=5CE1E6&currStreakLabel=5CE1E6&stroke=5CE1E6" alt="GitHub Streak"/>
+  </a>
 
 </div>
 
@@ -130,7 +136,7 @@ const gulrez = {
 
 <div align="center">
   
-  <img src="https://github-profile-trophy.vercel.app/?username=mrgulrez&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies"/>
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=mrgulrez&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
 
 </div>
 
@@ -176,20 +182,20 @@ const gulrez = {
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=65&section=header&animation=twinkling"/>
 </div>
 
-## Coding Activity & Stats
+## Backend Development Journey
 
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=mrgulrez&theme=tokyonight&hide_border=true&bg_color=0D1117&layout=compact" alt="Coding Activity" width="48%"/>
-  
+  <!-- Animated Code GIF -->
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" alt="Backend Coding Animation"/>
+
 </div>
 
 <br/>
 
 <div align="center">
   
-  <!-- Animated Code GIF -->
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" alt="Coding Animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&center=true&vCenter=true&width=700&height=60&duration=3000&pause=1000&color=5CE1E6&lines=Building+RESTful+APIs+with+Django+%26+Node.js;Designing+Scalable+Database+Architectures;Implementing+CI%2FCD+Pipelines+with+Docker;Optimizing+Backend+Performance;Working+with+PostgreSQL,+MongoDB+%26+Prisma" alt="Backend Focus"/>
 
 </div>
 
@@ -201,7 +207,7 @@ const gulrez = {
 
 <div align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=700&height=80&duration=3000&lines=🔭+Building+Full-Stack+Applications;🌱+Learning+System+Design+%26+Architecture;👯+Open+to+Collaborate+on+Open+Source;💬+Ask+me+about+React,+Node.js,+Django;⚡+Love+Solving+Complex+Problems;🚀+Always+Learning+New+Technologies" alt="Current Focus"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=28&center=true&vCenter=true&width=700&height=80&duration=3000&lines=🔧+Backend+Developer+%7C+Python+%26+JavaScript;🐍+Django+REST+Framework+Expert;⚡+Node.js+%26+Express+API+Development;🗄️+Database+Design+%26+Optimization;🐳+Docker+%26+AWS+Cloud+Deployment;🌱+Learning+System+Design+%26+Microservices;💬+Ask+me+about+Django,+Node.js,+APIs;🚀+Building+Scalable+Backend+Systems" alt="Current Focus"/>
 
 </div>
 
@@ -209,11 +215,20 @@ const gulrez = {
 
 <div align="center">
   
-  <!-- Tech Stack Animation -->
-  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100" alt="Tech Animation"/>
-  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100" alt="VS Code Animation"/>
-  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100" alt="GitHub Animation"/>
-  <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="100" alt="Coding Animation"/>
+  <!-- Backend Tech Stack Animation -->
+  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100" alt="Web Animation"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100" alt="VS Code"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100" alt="GitHub"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="100" alt="Coding"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100" alt="Terminal"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+  
+  <img src="https://skillicons.dev/icons?i=django,nodejs,python,js,express,fastapi,postgres,mongodb,mysql,redis,docker,aws,firebase,prisma,git,linux&perline=8" alt="Tech Stack" />
 
 </div>
 

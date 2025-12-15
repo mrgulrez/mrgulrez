@@ -6,18 +6,14 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey!+I'm+Gulrez+Alam!+👋;+Full+Stack+Developer!+💻;+Passionate+About+Coding!+🚀" />
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=65&section=header&animation=twinkling"/>
-</div>
+
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=mrgulrez&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/mrgulrez?label=Followers&style=social" alt="GitHub Followers" />
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=65&section=header&animation=twinkling"/>
-</div>
+
 
 ## About Me
 
@@ -45,9 +41,6 @@ const gulrez = {
 
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=65&section=header&animation=twinkling"/>
-</div>
 
 ## Technical Skills
 
@@ -104,9 +97,7 @@ const gulrez = {
 
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=65&section=header&animation=twinkling"/>
-</div>
+
 
 ## GitHub Statistics
 
@@ -138,9 +129,7 @@ const gulrez = {
 
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=65&section=header&animation=twinkling"/>
-</div>
+
 
 ## Detailed Insights
 
@@ -168,9 +157,9 @@ const gulrez = {
 
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=65&section=header&animation=twinkling"/>
-</div>
+</div> -->
 
 ## Backend Development Journey
 
@@ -222,9 +211,9 @@ const gulrez = {
 
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=65&section=header&animation=twinkling"/>
-</div>
+</div> -->
 
 ## Connect With Me
 
@@ -248,9 +237,9 @@ const gulrez = {
 
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=65&section=header&animation=twinkling"/>
-</div>
+</div> -->
 
 ## Random Dev Quote
 

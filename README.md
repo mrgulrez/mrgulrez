@@ -104,28 +104,24 @@ const gulrez = {
 <div align="center">
   
   <a href="https://github.com/mrgulrez">
-    <img src="https://github-readme-stats.vercel.app/api?username=mrgulrez&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="49%"/>
-  </a>
-  
-  <a href="https://github.com/mrgulrez">
-    <img src="https://streak-stats.demolab.com/?user=mrgulrez&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="49%"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=mrgulrez&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="100%"/>
   </a>
 
 </div>
 
 <br/>
 
-<div align="center">
+<!-- <div align="center">
   
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrgulrez&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=5CE1E6&line=5CE1E6&point=FFFFFF&area=true&area_color=5CE1E6" alt="Contribution Graph" width="100%"/>
 
-</div>
+</div> -->
 
 <br/>
 
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrgulrez&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrgulrez&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="100%"/>
 
 </div>
 
@@ -231,7 +227,7 @@ const gulrez = {
   <a href="mailto:contact@mrgulrez.dev" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email"/>
   </a>
-  <a href="https://mrgulrez.dev" target="_blank">
+  <a href="https://mrgulrez.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=FF5722" alt="Portfolio"/>
   </a>
 

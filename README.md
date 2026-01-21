@@ -99,31 +99,37 @@ const gulrez = {
 
 
 
-## GitHub Statistics
+## 📊 GitHub Statistics
 
+<table align="center">
+  <tr>
+    <td align="center">
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=mrgulrez&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+         width="560"
+      />
+    </td>
+    <td align="center">
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrgulrez&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+        width="350"
+      />
+    </td>
+  </tr>
+</table>
+
+
+<!-- Optional Activity Graph -->
+<!--
 <div align="center">
-  
-  <a href="https://github.com/mrgulrez">
-    <img src="https://github-readme-stats.vercel.app/api?username=mrgulrez&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="100%"/>
-  </a>
-
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=mrgulrez&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=5CE1E6&line=5CE1E6&point=FFFFFF&area=true&area_color=5CE1E6"
+    alt="Contribution Graph"
+    width="100%"
+  />
 </div>
+-->
 
-<br/>
-
-<!-- <div align="center">
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrgulrez&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=5CE1E6&line=5CE1E6&point=FFFFFF&area=true&area_color=5CE1E6" alt="Contribution Graph" width="100%"/>
-
-</div> -->
-
-<br/>
-
-<div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrgulrez&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="100%"/>
-
-</div>
 
 
 
@@ -131,7 +137,7 @@ const gulrez = {
 
 <div align="center">
   
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrgulrez&theme=tokyonight" alt="Profile Summary" width="100%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrgulrez&theme=tokyonight" alt="Profile Summary" width="95%"/>
 
 </div>
 

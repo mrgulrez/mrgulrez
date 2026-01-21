@@ -99,7 +99,7 @@ const gulrez = {
 
 
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <table align="center">
   <tr>

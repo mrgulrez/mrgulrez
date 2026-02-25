@@ -99,40 +99,6 @@ const gulrez = {
 
 
 
-## GitHub Statistics
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <img
-        src="https://github-readme-stats.vercel.app/api?username=mrgulrez&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
-         width="560"
-      />
-    </td>
-    <td align="center">
-      <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrgulrez&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-        width="350"
-      />
-    </td>
-  </tr>
-</table>
-
-
-<!-- Optional Activity Graph -->
-<!--
-<div align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=mrgulrez&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=5CE1E6&line=5CE1E6&point=FFFFFF&area=true&area_color=5CE1E6"
-    alt="Contribution Graph"
-    width="100%"
-  />
-</div>
--->
-
-
-
-
 ## Detailed Insights
 
 <div align="center">
@@ -163,26 +129,6 @@ const gulrez = {
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=65&section=header&animation=twinkling"/>
 </div> -->
 
-## Backend Development Journey
-
-<div align="center">
-  
-  <!-- Animated Code GIF -->
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" alt="Backend Coding Animation"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-  
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&center=true&vCenter=true&width=700&height=60&duration=3000&pause=1000&color=5CE1E6&lines=Building+RESTful+APIs+with+Django+%26+Node.js;Designing+Scalable+Database+Architectures;Implementing+CI%2FCD+Pipelines+with+Docker;Optimizing+Backend+Performance;Working+with+PostgreSQL,+MongoDB+%26+Prisma" alt="Backend Focus"/>
-
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=65&section=header&animation=twinkling"/>
-</div>
 
 ## Current Focus
 
